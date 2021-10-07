@@ -1,0 +1,7 @@
+fruits <- c("mango", "banana", "apple", "kiwi", "durian",
+            "strawberry", "blueberry", "pineapple", "orange", "longan")
+color <- c("yellow", "yellow", "red", "green", "yellow",
+           "red", "blue", "yellow", "orange", "yellow")
+size <- c("medium", "medium", "small", "small", "large",
+          "tiny", "tiny", "large", "small", "small")
+sales.kg <- c(65, 78, 69, 120, 200, 52, 11, 35, 12, 55)
